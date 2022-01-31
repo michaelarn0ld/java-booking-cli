@@ -1,5 +1,5 @@
-# Don't Wreck My House!
-Don't wreck my house is a TUI application that serves as a travel reservation
+# Java Booking CLI
+Java booking is a CLI application that serves as a travel reservation
 system. The app is designed to be used by an administrator to create, view, 
 modify, and delete for guest/host pairs. The file uses file I/O as a data store;
 the core purpose of this project was to implement a simplified layered
